@@ -1,7 +1,11 @@
   Hi, I’m Yasser Siddiqui
+  
   I’m interested in Data Science
+  
   I’m currently learning Python, R, SQL, & Julia
+  
   I’m looking to collaborate on anything that would help me develop my skills
+  
   I also have a [Kaggle](https://www.kaggle.com/yassersiddiqui)
 
 <!---
